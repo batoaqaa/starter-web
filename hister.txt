@@ -4,3 +4,8 @@ hister.txt
 ooooo
 modified
 
+new data 
+more data
+
+text in the middle terminal
+
